@@ -1,9 +1,12 @@
 # CPSC-431 Assignment 3
 <br>
-# Technology: 
+# Technology
+<br>
 For this Project I used PHP, MySQL, Ajax, and Jquery. 
-# Group Members:
-<br>Team member names: Mauricio Macias, Maria Diaz <br>
+# Group Members
+<br>
+Team member names: Mauricio Macias, Maria Diaz. 
+<br>
 
 # Short introduction and explanation of each team member's contributions <br>
 Mauricio Macias: Separated css elements to their own css stylesheet and created references to that file within the code. Wrote the index.html interface and color randomization code. Correctly stored username and color into the database. Added color stylesheet changes with div in client.js. This changed the rectangle portion of the message bubble to match the randomized color. <br>
@@ -24,12 +27,11 @@ Both parties contributed to trouble shooting, planning, and testing of the datab
 <br>
 # Database Design
 <br>
-CREATE TABLE `chatlog` (
-  `id` int(11) NOT NULL,
-  `message` text NOT NULL,
-  `sent_by` varchar(50) NOT NULL,
-  `date_created` int(11) NOT NULL,
-  `username` varchar(50) NOT NULL,
-  `color` varchar(10) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
+CREATE TABLE `chatlog` ( <br>
+  `id` int(11) NOT NULL, <br>
+  `message` text NOT NULL, <br>
+  `sent_by` varchar(50) NOT NULL, <br>
+  `date_created` int(11) NOT NULL, <br>
+  `username` varchar(50) NOT NULL, <br>
+  `color` varchar(10) NOT NULL <br>
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4; <br>
