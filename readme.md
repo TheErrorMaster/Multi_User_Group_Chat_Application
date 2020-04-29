@@ -13,11 +13,11 @@ Both parties contributed to trouble shooting, planning, and testing of the datab
 
 # Wireframe
 
-[]!(img/name.png)
+![](img/name.png)
 <br>
 user enters username before entering the chat room and randomly is selected a color for their chat bubble. 
 <br>
-[]!(img/chat.png)
+![](img/chat.png)
 <br>
 Group chat with participants identified by name and color. 
 <br>
