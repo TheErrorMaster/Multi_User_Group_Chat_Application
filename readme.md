@@ -1,7 +1,8 @@
 # CPSC-431 Assignment 3
 <br>
+# Technology: 
 For this Project I used PHP, MySQL, Ajax, and Jquery. 
-
+# Group Members:
 <br>Team member names: Mauricio Macias, Maria Diaz <br>
 
 # Short introduction and explanation of each team member's contributions <br>
@@ -15,11 +16,11 @@ Both parties contributed to trouble shooting, planning, and testing of the datab
 
 ![](img/name.png)
 <br>
-user enters username before entering the chat room and randomly is selected a color for their chat bubble. 
+<br> user enters username before entering the chat room and randomly is selected a color for their chat bubble.
 <br>
 ![](img/chat.png)
 <br>
-Group chat with participants identified by name and color. 
+<br> Group chat with participants identified by name and color. 
 <br>
 # Database Design
 <br>
