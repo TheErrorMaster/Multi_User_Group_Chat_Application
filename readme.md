@@ -1,9 +1,7 @@
 # CPSC-431 Assignment 3
-<br>
-# Techology
+
 <br>
 For this Project I used PHP, MySQL, Ajax, and Jquery. 
-# Members
 <br>
 Team member names: Mauricio Macias, Maria Diaz. 
 <br>
